@@ -1,0 +1,1 @@
+ question = ""  # Define or assign the 'question' variable appropriately
